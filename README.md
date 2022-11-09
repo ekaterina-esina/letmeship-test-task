@@ -14,6 +14,6 @@ It is necessary to develop an application with the possibility of direct and rev
 
 # Solution
 
-# Technology:
+# Technology
 
-# How to start:
+# How to start

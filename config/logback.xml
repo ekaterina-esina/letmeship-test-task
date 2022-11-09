@@ -18,7 +18,7 @@
         <appender-ref ref="ConsoleAppender" />
     </appender>
 
-    <logger name="ru.esina" level="DEBUG" additivity="false">
+    <logger name="com.esina" level="DEBUG" additivity="false">
         <appender-ref ref="ConsoleAsyncAppender"/>
     </logger>
 
